@@ -35,7 +35,7 @@ Projects-OOP-Alura/
 │ │ ├── PessoaMensagem
 │ │ ├── Produto
 │ │ └── screenmatch
-│ └── README.md # Detalhes específicos do projeto ScreenMatch
-│
+│ └── README.md # Detalhes específicos dos projetos
+
 ├── outros-projetos/ # (Serão Adicionados aqui)
 └── README.md # Você está aqui!
