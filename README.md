@@ -13,7 +13,6 @@ Praticar os principais conceitos da Programação Orientada a Objetos em Java:
 - Encapsulamento
 - Herança
 - Polimorfismo
-- Interfaces
 - Boas práticas de modelagem
 
 ---
