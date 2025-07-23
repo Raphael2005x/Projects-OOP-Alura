@@ -24,7 +24,7 @@ Projects-OOP-Alura/
 ├── ScreenMatch/
 │   ├── src/
 │   │   ├── Aluno/
-│   │   │   └── AlunoMedia
+│   │   ├── AlunoMedia/
 │   │   ├── Calculadora/
 │   │   ├── Carros/
 │   │   ├── ContaBancaria/
