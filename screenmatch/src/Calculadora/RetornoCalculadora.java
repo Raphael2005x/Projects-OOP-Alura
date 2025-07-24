@@ -1,4 +1,4 @@
-package Calcualdora;
+package Calculadora;
 
 public class RetornoCalculadora {
     public static void main(String[] args) {
