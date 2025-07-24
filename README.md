@@ -1,7 +1,7 @@
 # Projects OOP - Alura
 
 Este repositório contém projetos desenvolvidos durante meus estudos de **Programação Orientada a Objetos (POO)** com Java, seguindo os cursos da [Alura](https://www.alura.com.br/).  
-Atualmente, A pasta **ScreenMatch**, Tem sistemas de Filme, Escola, Idade, Pessoa, entre outras coisas básicas — mais para eu entender como utilizar a POO.
+Atualmente, A pasta **ScreenMatch**, Tem criação de sistemas basicos de Filme, Escola, Idade, Pessoa, entre outras coisas básicas — mais para eu entender como utilizar a POO.
 
 ---
 
